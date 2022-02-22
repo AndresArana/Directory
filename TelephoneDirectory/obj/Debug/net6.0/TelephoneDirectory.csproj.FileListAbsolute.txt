@@ -1,0 +1,92 @@
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Phonebook\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Phonebook - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana - copia\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Downloads\Directory - RubenAndresGarciaArana (1)\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.exe
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.deps.json
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.runtimeconfig.json
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.AssemblyReference.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.csproj.CopyComplete
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\ref\TelephoneDirectory.dll
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.pdb
+C:\Users\ragarciaa\Desktop\Directory - RubenAndresGarciaArana\Directory - RubenAndresGarciaArana\TelephoneDirectory\obj\Debug\net6.0\TelephoneDirectory.genruntimeconfig.cache
